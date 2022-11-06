@@ -1,0 +1,25 @@
+{
+  "name": "photomaton_class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.145.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./js/index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alternatorbob/Photomaton_class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alternatorbob/Photomaton_class/issues"
+  },
+  "homepage": "https://github.com/alternatorbob/Photomaton_class#readme"
+}
